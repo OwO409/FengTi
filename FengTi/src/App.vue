@@ -265,7 +265,7 @@ import { RouterLink, RouterView } from 'vue-router'
 	<span style="text-decoration: none">
 	<p class="MsoNormal" style="text-indent: .75in; margin-left: 100px; margin-right: 50px; margin-top: 4px; margin-bottom: 4px">　</p>
     <p style="margin-left: 100; margin-top: 4; margin-bottom: 4">　</p>
-	
+    /2012/084.jpg
 	<p style="margin-left: 100; margin-top: 4; margin-bottom: 4">　</p></span></td>
     <td width="7" height="458" valign="top" style="border-style: none; border-width: medium">
     　</td>
